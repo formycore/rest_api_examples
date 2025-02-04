@@ -1,0 +1,6 @@
+to store the password or token 
+pip install python-dotenv
+
+- create a .env file add the tokens in this file 
+- add this .env file to .gitignore 
+- echo .env | sudo tee -a .gitignore
